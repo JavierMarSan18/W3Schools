@@ -1,0 +1,12 @@
+Objects can also have methods.
+
+Methods are actions that can be performed on objects.
+
+Methods are stored in properties as function definitions.
+
+Property	Property Value
+firstName	John
+lastName	Doe
+age	        50
+eyeColor	blue
+fullName	function() {return this.firstName + " " + this.lastName;}

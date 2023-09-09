@@ -1,0 +1,7 @@
+The name:values pairs in JavaScript objects are called properties:
+
+Property	Property Value
+firstName	John
+lastName	Doe
+age	        50
+eyeColor	blue

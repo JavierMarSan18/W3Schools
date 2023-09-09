@@ -1,0 +1,4 @@
+perator	Example	Same As
+&&=	x &&= y	x = x && (x = y)
+||=	x ||= y	x = x || (x = y)
+??=	x ??= y	x = x ?? (x = y)
